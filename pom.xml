@@ -311,7 +311,9 @@
                                     <configuration>
                                         <formats>
                                             <format>xml</format>
+                                            <format>html</format>
                                         </formats>
+                                        <argLine>-XX:-UseSplitVerifier</argLine>                                        
                                     </configuration>
                                 </plugin>
                                 <plugin>
