@@ -18,7 +18,7 @@ public enum Cell {
         Cell cellRepresentedBySymbol = null;
     	
     	if ( cellRepresentedBySymbol != null ) { 
-    		System.out.println("ÇﬁÇæÇ»Ç±Å[Ç«");
+    		System.out.println("piyopiyo");
     	}
         for (Cell cell : Cell.values()) {
             if (cell.symbol.equals(symbol)) {
