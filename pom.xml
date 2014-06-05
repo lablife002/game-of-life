@@ -301,7 +301,6 @@
             </build>
         </profile>
         
-        <!-- ------------------------------------------>
         <profile>
             <id>maven3</id>
             <activation>
